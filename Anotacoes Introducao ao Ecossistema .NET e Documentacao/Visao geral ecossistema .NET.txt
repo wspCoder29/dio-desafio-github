@@ -1,0 +1,166 @@
+1) .NET x ASP.NET: Conceitos e Características - ecossistema
+
+
+2) ASP.NET - focado em web
+
+
+.NET FOUNDATION - Dá suporte ao desenvolvimento do .NET
+
+
+Linguagens de prog: C#, F#, Visual Basic
+
+Bibliotecas necessárias para desenvolvimento e execução de aplicações
+.NET
+
+*SDK
+*RUNTIME
+
+
+Nuget: gerenciador de pacotes
+
+Acesso a dados:
+ORM -> Entity Framework Core (mapeamento relacional)
+Facilia o acesso aos dados
+
+LINQ - Consulta integrada à linguagem - Consulta ingegrada à linguagem
+sintaxe unificada para acesso a dados
+
+Ambientes:
+GitHub Actions
+AzureDevops
+Cake/FAKE
+
+Gerenciamento automático de memória - garbage col
+
+
+==================
+ASP.NET CORE 
+
+APlicações Web
+REST APIs
+microservices
+hubs
+==================
+
+História do .NET
+
+Aula 2. .NET implementação e tecnologias
+
+- Como ocorre o desenvolvimento multiplataforma
+Open source gratuito
+
+Abordagem Multiplataforma
+
+Framework - Multiplataforma, melhor desempenho
+==================
+
+
+.NET FRAMEWORK
+- O que é?
+Ambiente de des e execução focado em windows
+-Common language runtime + .NET Class library
+
+-Compilador traduz o cod de alto nivel para uma linguagem intermediária
+- CLR - common language runtime, dentro dele tem o JIT - "just in time"? 
+O JIT pega o cód intermediário EM TEMPO DE EXECUÇÃO e converte essa linguagem
+intermediária em linguagem de máquina.
+
+
+Características Principais
+>Gerenciamento de memória
+>Sistema de tipos comum > tipos definidos pelo framework
+>Variadas bibliotecas de classes utilitarias 
+>Interoperabilidade entre linguagens
+>Compatibilidade de versões
+>Uso do .NET Standard
+
+
+O novo .NET CORE
+.NET .NET Core
+
+.NET FRAMEWORK é monolítioco
+
+.NET CORE - é modularizado, aumenta o desempenho de execução da application
+-Ciclos de lançamento mais rápidos
+
+
+============================
+SOBRE ASP .NET CORE
+ASP NET CoreAplicações Webb
+ASP NET CORE MVC
+Mapeamento de requisições HTTP 
+Model Validation
+Razor
+Manutenção de cógigo usando infos do servidor
+BLAZOR
+Integração com Angular, REACT E Javascript
+
+
+
+============================
+
+ENTENDENDO O XAMARIN
+Plataforma de des aplicações mobile - multiplataforma
+
+- compila em linguagem nativa para a plataforma - codigo de logica compartilhado
+
+- Processamento != entre android e IOS
+
+
+=============================
+O que é um bom código?
+
+
+Regras para entendimento de código
+consistêcnia na escrita do cod
+Utilizar variáveis concisas e que passa a informação necessária
+Objetor de valor ao inves de tipos primitivos
+Evite dependencias logicas
+Evite condicionais negativas
+
+
+Regras para nomeação
+constantes para strings que serão comparadas
+Não usar prefixos ou caracteres especiais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
