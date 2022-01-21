@@ -1,0 +1,29 @@
+Principais comandos usados no .NET - dia a dia
+
+dotnet --info
+
+dotnet new = cria um novo projeto
+
+dotnet new --list --tag web = mostra somente opções web
+
+dotnet new --help
+
+dotnet new console -o myApp = cria um projeto de nome "myApp" e instala as
+dependências necessárias (para console app)
+
+dotnet run = roda a aplicaão criada e exibe o template "Hello World!"
+
+dotnet run 
+
+dotnet restore = restaura dependencias eventualmente deletadas do projeto
+
+
+
+
+
+
+
+
+
+
+
