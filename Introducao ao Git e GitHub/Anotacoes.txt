@@ -1,0 +1,65 @@
+rmdir - apaga diretorio e conteudo dentro
+
+echo hello > hello.txt - cria arq txt
+
+
+======================
+deletar:
+del nomePasta = não deleta a pasta, apenas o conteúdo dela
+
+rmdir nomePasta = deleta repositorio
+======================
+
+Por baixo dos panos no GIT
+SHA1 - Algoritmo de encriptação
+
+passando arqu para o SHA1
+openssl sha1 text.txt
+
+======================
+
+OBJETOS INTERNOS DO GIT -
+tipos básicos: permitem versionamento do código
+Sistema distribuído
+
+BLOBS - contém sha1, tipo, tamanho, conteúdo 
+
+TREES - Armazenam BLOBS, nome do arquivo
+monta a estrutura dos arquivos, podem apontar pra outras árvores
+
+Commit - tem sha1, incriptação:tem nome, carimbo de tempo 
+
+Sistema distribuído Seguro
+=================================================================
+
+Chaves SSH e Tokens
+
+Autenticação
+
+
+PASSOS: 
+
+GERAR CHAVE SSH: ssh-keygen -t ed25519 -C leandro.wsp@gmail.com
+
+VAI ATÉ A PASTA 
+COLOCA NO GIT HUB
+Passa isso pro github
+
+=====================
+mostrar arquivos ocultos
+ls -a
+
+git init = cria repositorio
+
+======================
+Passar um rep remoto para o github
+git remote add origin
+
+lista repositorios cadastrados
+git remote -v
+
+obs: o origin é a um alias para a url do
+repositorio, com isso não é
+necessário digitar/colar a url novamente
+
+
