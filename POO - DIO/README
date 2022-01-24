@@ -1,0 +1,29 @@
+Nesse projeto desenvolvi 4 classes de Heroes usando conceitos de POO em C#
+Ninja
+White Mage
+Black Mage
+Knight
+
+Além dos métodos indicados durante o treinamento
+implementei 2 metodos adicionais para cada hero.
+Os métodos e seus efeitos ao serem invocados são listados abaixo
+Todos são carregados ao se executar o método main mostrando cada herói
+por meio de um ToString() overloaded
+
+
+Métodos especias:
+Black Mage:
+BlackStorm - tempestade elétrica
+Catastrofe - invica criatura mágica
+
+White Mage:
+HealingWind - recupera Hp
+CureStatus - remove status negativos
+
+Knight:
+PowerUp - ataCkPower OVER9000!
+OmniChange - desense -100, ataCkPower = 50
+
+Ninja:
+Furtive - Usa atack furtivo
+NinjaWay - AttackPower +10, MP+10
