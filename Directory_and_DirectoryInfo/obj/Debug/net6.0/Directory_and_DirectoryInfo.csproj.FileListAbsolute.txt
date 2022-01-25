@@ -1,0 +1,15 @@
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\bin\Debug\net6.0\Directory_and_DirectoryInfo.exe
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\bin\Debug\net6.0\Directory_and_DirectoryInfo.deps.json
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\bin\Debug\net6.0\Directory_and_DirectoryInfo.runtimeconfig.json
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\bin\Debug\net6.0\Directory_and_DirectoryInfo.dll
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\bin\Debug\net6.0\ref\Directory_and_DirectoryInfo.dll
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\bin\Debug\net6.0\Directory_and_DirectoryInfo.pdb
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\obj\Debug\net6.0\Directory_and_DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\obj\Debug\net6.0\Directory_and_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\obj\Debug\net6.0\Directory_and_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\obj\Debug\net6.0\Directory_and_DirectoryInfo.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\obj\Debug\net6.0\Directory_and_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\obj\Debug\net6.0\Directory_and_DirectoryInfo.dll
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\obj\Debug\net6.0\ref\Directory_and_DirectoryInfo.dll
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\obj\Debug\net6.0\Directory_and_DirectoryInfo.pdb
+C:\Users\Leandro\Desktop\Directory_and_DirectoryInfo\obj\Debug\net6.0\Directory_and_DirectoryInfo.genruntimeconfig.cache
