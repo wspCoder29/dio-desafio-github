@@ -1,0 +1,30 @@
+C:\Users\Leandro\Desktop\VS\bin\Debug\net6.0\File_And_FIleInfo.exe
+C:\Users\Leandro\Desktop\VS\bin\Debug\net6.0\File_And_FIleInfo.deps.json
+C:\Users\Leandro\Desktop\VS\bin\Debug\net6.0\File_And_FIleInfo.runtimeconfig.json
+C:\Users\Leandro\Desktop\VS\bin\Debug\net6.0\File_And_FIleInfo.dll
+C:\Users\Leandro\Desktop\VS\bin\Debug\net6.0\ref\File_And_FIleInfo.dll
+C:\Users\Leandro\Desktop\VS\bin\Debug\net6.0\File_And_FIleInfo.pdb
+C:\Users\Leandro\Desktop\VS\obj\Debug\net6.0\File_And_FIleInfo.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\VS\obj\Debug\net6.0\File_And_FIleInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\VS\obj\Debug\net6.0\File_And_FIleInfo.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\VS\obj\Debug\net6.0\File_And_FIleInfo.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\VS\obj\Debug\net6.0\File_And_FIleInfo.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\VS\obj\Debug\net6.0\File_And_FIleInfo.dll
+C:\Users\Leandro\Desktop\VS\obj\Debug\net6.0\ref\File_And_FIleInfo.dll
+C:\Users\Leandro\Desktop\VS\obj\Debug\net6.0\File_And_FIleInfo.pdb
+C:\Users\Leandro\Desktop\VS\obj\Debug\net6.0\File_And_FIleInfo.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\bin\Debug\net6.0\File_And_FIleInfo.exe
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\bin\Debug\net6.0\File_And_FIleInfo.deps.json
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\bin\Debug\net6.0\File_And_FIleInfo.runtimeconfig.json
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\bin\Debug\net6.0\File_And_FIleInfo.dll
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\bin\Debug\net6.0\ref\File_And_FIleInfo.dll
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\bin\Debug\net6.0\File_And_FIleInfo.pdb
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\obj\Debug\net6.0\File_And_FIleInfo.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\obj\Debug\net6.0\File_And_FIleInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\obj\Debug\net6.0\File_And_FIleInfo.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\obj\Debug\net6.0\File_And_FIleInfo.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\obj\Debug\net6.0\File_And_FIleInfo.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\obj\Debug\net6.0\File_And_FIleInfo.dll
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\obj\Debug\net6.0\ref\File_And_FIleInfo.dll
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\obj\Debug\net6.0\File_And_FIleInfo.pdb
+C:\Users\Leandro\Desktop\Demo Criar arquivos e tratamento de erros\obj\Debug\net6.0\File_And_FIleInfo.genruntimeconfig.cache
