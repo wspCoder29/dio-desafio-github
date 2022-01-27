@@ -14,7 +14,7 @@ por meio de um ToString() overloaded
 Métodos especias:
 Black Mage:
 BlackStorm - tempestade elétrica
-Catastrofe - invica criatura mágica
+Catastrofe - invoca criatura mágica
 
 White Mage:
 HealingWind - recupera Hp
